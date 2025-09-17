@@ -1,12 +1,13 @@
 ## Hi there 👋I am Muhammad Zohaib
 
-## 🚀 About Me  
+## About Me 🚀  
 
 🎓 I’m currently working as a **Database Engineer** with hands-on experience in managing and optimizing databases.  
 
-🔨 I’m expanding my knowledge into **Data Engineering, Data Science, and AI**, focusing on tools and concepts like Python, SQL, cloud platforms, and ETL pipelines.  
+🔨 I’m expanding my knowledge into **Data Engineering, Data Science, and AI**, focusing on Python, SQL, cloud platforms, and ETL pipelines.  
 
-👨‍💻 I’m especially curious about **Machine Learning and AI applications**, and I enjoy building projects that help me learn and apply these concepts in real-world scenarios.  
+👨‍💻 I’m interested in data-related fields like **Machine Learning and AI applications**, and I enjoy learning new things by building practical projects.  
+  
 
 <!--
 **ZohaibJavaid32/ZohaibJavaid32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
