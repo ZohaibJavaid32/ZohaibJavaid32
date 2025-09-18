@@ -1,6 +1,6 @@
 # Hi there 👋I am Muhammad Zohaib
 
-## About Me 🚀  
+### About Me 🚀  
 
 🎓 I’m currently working as a **Database Engineer** with hands-on experience in managing and optimizing databases.  
 
@@ -9,7 +9,7 @@
 👨‍💻 I’m interested in data-related fields like **Machine Learning and AI applications**, and I enjoy learning new things by building practical projects.  
 
 
-## Tools & Technologies 🔧:
+### Tools & Technologies 🔧:
  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,7 +31,7 @@
 
 ### Certifications:
 
-## Connect with Me 🤝
+### Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zohaib-ab20ab24a/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibjavaid326@gmail.com)
