@@ -36,8 +36,9 @@
  [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/R37FX27WDZBF)  
 [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/DZM2ZRGB2XDM)  
 [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/muhammadzohaib-9566/credentials/certification/azure-data-scientist?tab=credentials-tab)  
-[Understanding Cloud Computing](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c21be0f2d4892553349be84f7719b19dba2b4df)
+[Understanding Cloud Computing](https://www.datacamp.com/completed/statement-of-accomplishment/course/7c21be0f2d4892553349be84f7719b19dba2b4df)  
 [NoSQL Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/b2791c125b21f22677f2d66b354d69a8083cbd91)
+
 
 ### Connect with Me 🤝
 
