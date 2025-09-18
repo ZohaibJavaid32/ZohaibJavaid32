@@ -8,16 +8,8 @@
 
 👨‍💻 I’m interested in data-related fields like **Machine Learning and AI applications**, and I enjoy learning new things by building practical projects.  
 
-## Technical Skills 🛠️
-**_Cloud Plateforms_**: Amazon Web Services (AWS) , GCP
 
-_**Programming Languages**_: C++ , Python, JavaScript SQL, (Linux) Shell scripting
-
-_**Databases**_: MySQL , PostgreSQL , MSSQL Server , MongoDB.
-
-_**Dashboard Tools**_: PowerBI , Grafana
-
-## Libraries & Frameworks 🔧:
+## Tools & Technologies 🔧:
  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -31,6 +23,8 @@ _**Dashboard Tools**_: PowerBI , Grafana
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 <!--
