@@ -32,6 +32,16 @@
 
 ### Certifications:
 
+## 🎓 Certifications  
+
+## 🎓 Certifications  
+
+ [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/R37FX27WDZBF)  
+[Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/DZM2ZRGB2XDM)  
+[Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/muhammadzohaib-9566/credentials/certification/azure-data-scientist?tab=credentials-tab)  
+
+
+
 ### Connect with Me 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zohaib-ab20ab24a/) 
