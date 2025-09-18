@@ -17,7 +17,7 @@ _**Databases**_: MySQL , PostgreSQL , MSSQL Server , MongoDB.
 
 _**Dashboard Tools**_: PowerBI , Grafana
 
-## Libraries & Tools 🔧:
+## Libraries & Frameworks 🔧:
  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
