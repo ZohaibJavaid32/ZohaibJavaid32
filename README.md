@@ -1,4 +1,4 @@
-# Hi there 👋I am Muhammad Zohaib
+# 👋Hi there, I am Muhammad Zohaib!
 
 ### About Me 🚀  
 
@@ -44,6 +44,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zohaib-ab20ab24a/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibjavaid326@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zohaib333)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/javaidiqbal.javaidiqbal.9849912)
+
+
 
 
 <!--
