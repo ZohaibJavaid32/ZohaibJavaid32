@@ -32,9 +32,6 @@
 
 ### Certifications:
 
-## 🎓 Certifications  
-
-## 🎓 Certifications  
 
  [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/verify/R37FX27WDZBF)  
 [Introduction to Front-End Development](https://www.coursera.org/account/accomplishments/verify/DZM2ZRGB2XDM)  
